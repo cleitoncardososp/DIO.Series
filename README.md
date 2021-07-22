@@ -1,1 +1,2 @@
-Projeto em C# (Console) da DIO - Gerenciamento de Séries (CRUD)
+**Projeto em C# (Console) da DIO - Gerenciamento de Séries (CRUD)**
+
